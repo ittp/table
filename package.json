@@ -25,7 +25,8 @@
     "not ie <= 11",
     "not op_mini all"
   ],
-  "name": "nested-tables-antd4192-forked",
-  "description": null,
-  "version": "0.0.0"
+  "name": "backup-table",
+  "description": "",
+  "version": "0.0.0",
+  "keywords": []
 }
